@@ -13,6 +13,6 @@ Please follow the below steps to run this project.
 3. [Sumy](https://pypi.org/project/sumy/)
 4. [Auto Correct](https://pypi.org/project/autocorrect/)
 
-# Demo of "Flask Website for NLP"
+# Demo of "Flask Website"
 
 ![nlpgif](NLPFlask.gif)
